@@ -98,7 +98,7 @@ This project provides a comprehensive role-based healthcare management applicati
 ### 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd ph-health-care
+
 ```
 
 ### 2. Install dependencies
@@ -109,7 +109,7 @@ npm install
 ### 3. Set up environment variables
 Create a `.env.local` file in the root directory:
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:5000/api
+NEXT_PUBLIC_API_URL=http://localhost:5000/api/v1
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 JWT_SECRET=your-jwt-secret
 RESET_PASS_TOKEN=your-reset-token
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@shastosheba.com or create an issue in this repository.
+For support, email: riwanhossainrahat@gmail.com or create an issue in this repository.
 
 ---
 
