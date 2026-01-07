@@ -2,7 +2,7 @@
 
 A scalable, production-grade, and fully responsive healthcare management platform similar to modern telemedicine solutions, built with Next.js 16, TypeScript, and modern web technologies.
 
-**[Live Demo]** [(your-demo-link)](https://shato-sheba-frontend.vercel.app/) **[Live Backend]** [(your-backend-link)](https://shastho-sheba-server.onrender.com/)
+**[Live Demo]** [(https://shato-sheba-frontend.vercel.app)] **[Live Backend]** [(https://shastho-sheba-server.onrender.com)]
 
 ## Demo Credentials
 
